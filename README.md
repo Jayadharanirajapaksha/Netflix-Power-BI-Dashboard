@@ -8,6 +8,8 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 subscribers globally. This Tabular Dataset contains a list of all the movies and TV shows
 available on Netflix, along with details such as cast , directors, ratings, released year, duration,
 etc.
+The Power BI Dashboard:
+![netflix dashboard](https://github.com/Jayadharanirajapaksha/Netflix-Power-BI-Dashboard/assets/116358845/20176a11-5216-495d-8958-d16dac7280d2)
 
 Data set Source from Kaggle:
 https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
